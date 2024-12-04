@@ -1,0 +1,13 @@
+------First test--------
+
+Enter the string to be reversed : ABCD
+str before reverse = ABCD
+str after reverse = DCBA
+
+
+------Second test--------
+
+Enter the string to be reversed : JOSE
+str before reverse = JOSE
+str after reverse = ESOJ
+ 
